@@ -41,5 +41,4 @@ CREATE TABLE character_books (
   id INTEGER PRIMARY KEY,
   character_id INTEGER,
   series_id INTEGER
-  
 );
