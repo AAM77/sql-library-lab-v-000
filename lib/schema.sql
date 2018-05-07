@@ -37,3 +37,6 @@ CREATE TABLE characters (
   series_id INTEGER
 )
 
+CREATE TABLE character_books (
+  
+);
