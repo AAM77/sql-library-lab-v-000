@@ -38,5 +38,6 @@ CREATE TABLE characters (
 )
 
 CREATE TABLE character_books (
+  if INTEGER PRIMARY KEY,
   
 );
