@@ -26,3 +26,22 @@ VALUES
 ("Aragorn", "I will protect you with my life.", "Human", 2, 2),
 ("Sam Gamgee", "I have a love for all things that grow.", "Hobbit", 2, 2),
 ("Tom Bombadil", "Let's all be happy.", "Unknown", 2, 2);
+
+INSERT INTO character_books (book_id, character_id)
+VALUES
+(1, 1),
+(1, 2),
+(1, 4),
+(2, 1),
+(2, 2),
+(2, 3),
+(3, 1),
+(3, 2),
+(1, 2),
+(1, 3),
+(1, 4),
+(2, 1),
+(2, 2),
+(2, 3),
+(3, 2),
+(3, 3);
